@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  🌱 I'm currently broadening my konwledge across diverse technologies and domains.
+  🌱 I'm currently broadening my knowledge across diverse technologies and domains.
   <br>
   📫 Reach out to me: <a href="mailto:setkowicz@student.agh.edu.pl">setkowicz@student.agh.edu.pl</a>
   <br>
